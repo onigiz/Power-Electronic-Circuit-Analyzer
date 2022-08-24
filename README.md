@@ -10,7 +10,7 @@ The homework is given by ITU Electric-Electronic Faculty, is created for a Pytho
 There are files with .ui extension for which we designed the interface in GUIPages. Same folder, IMGInterface located in
 The folder contains the images used in the project.
 
----Libraries Used---
+## ---Libraries Used---
 -PyQt5
 -matplotlib
 -numpy
